@@ -38,7 +38,8 @@ end
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
   
-  residents
+  residents[0][1]
+  residents[1][2]
 end
 
 def matrix_update(matrix, row, column, new_value)
